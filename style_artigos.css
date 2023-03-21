@@ -7,9 +7,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Golos+Text&display=swap');
 
-
-   
-
 body>header{
     background-color: rgb(46, 74, 202);
     padding: 50px;
@@ -46,6 +43,7 @@ body>header>nav>a:hover{
 
 }
 
+
 body>header>h2{
     margin-top: 5px;
     text-align: center;
@@ -59,49 +57,7 @@ body>footer{
     background-color: rgb(32, 90, 167);
 }
 
-.caixabaixarreset{
-    margin: auto;
-    padding: 10px;
-    border: 1px solid black;
-    width: 500px;
-    height: 130px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border-radius: 30px;
-}
 
-.baixar{
-    padding-left: 200px;
-    text-decoration: none;
-    font-size: 2em;
-    color: Red;
-    font-family: 'Golos Text', sans-serif;
-    font-weight: bolder;
-}
-
-.baixar:hover{
-    text-align: center;
-    font-size: 2em;
-    font-family: 'Golos Text', sans-serif;
-    text-shadow: 3px 3px 3px black;
-}
-
-.nome_impressora{
-    text-align: center;
-    text-decoration: none;
-    font-size: 2em;
-    color: rgb(0, 17, 255);
-    font-family: 'Golos Text', sans-serif;
-
-}
-
-.detalhes{
-    padding: 5px;
-    text-align: center;
-    text-decoration: none;
-    font-family: 'Golos Text', sans-serif;
-
-}
 footer{
     margin-top: 50px;
     padding: 3px;
